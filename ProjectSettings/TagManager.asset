@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spike
+  - Fire
+  - Enemy
+  - FallDetect
+  - Ground
+  - Lava
+  - Spell
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Spike
+  - Environment
+  - 
+  - 
+  - 
+  - 
+  - NPC
+  - Player
+  - Liquid
+  - Fake Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 1248998897
+    locked: 0
+  - name: Player
+    uniqueID: 3199155333
+    locked: 0
+  - name: Liquid
+    uniqueID: 225104613
+    locked: 0
+  - name: Fake Wall
+    uniqueID: 3116230953
+    locked: 0

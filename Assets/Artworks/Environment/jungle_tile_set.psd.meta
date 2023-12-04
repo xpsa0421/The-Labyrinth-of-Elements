@@ -1,0 +1,1800 @@
+fileFormatVersion: 2
+guid: 2b9c5d4568d7e4c83a41d64782ba54fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1833368877763272672
+    second: jungle_tile_set_0
+  - first:
+      213: 3910300637694279878
+    second: jungle_tile_set_1
+  - first:
+      213: 6084079390920949797
+    second: jungle_tile_set_2
+  - first:
+      213: 4224089722478775423
+    second: jungle_tile_set_3
+  - first:
+      213: -3018142103140751725
+    second: jungle_tile_set_4
+  - first:
+      213: -7180730817463380187
+    second: jungle_tile_set_5
+  - first:
+      213: 2679793162590484087
+    second: jungle_tile_set_6
+  - first:
+      213: 6569472228182736445
+    second: jungle_tile_set_7
+  - first:
+      213: 4480101329010346124
+    second: jungle_tile_set_8
+  - first:
+      213: 2844702113349032330
+    second: jungle_tile_set_9
+  - first:
+      213: 1381500792313561899
+    second: jungle_tile_set_10
+  - first:
+      213: -8402200470762812537
+    second: jungle_tile_set_11
+  - first:
+      213: 997434002513426276
+    second: jungle_tile_set_12
+  - first:
+      213: 4951893667733485843
+    second: jungle_tile_set_13
+  - first:
+      213: 6562337958955592311
+    second: jungle_tile_set_14
+  - first:
+      213: -7075382671173715019
+    second: jungle_tile_set_15
+  - first:
+      213: 924993636642379234
+    second: jungle_tile_set_16
+  - first:
+      213: 2677301828204547729
+    second: jungle_tile_set_17
+  - first:
+      213: 365891193898230194
+    second: jungle_tile_set_18
+  - first:
+      213: -207999921468487757
+    second: jungle_tile_set_19
+  - first:
+      213: 5421219711380108117
+    second: jungle_tile_set_20
+  - first:
+      213: -824675587772969335
+    second: jungle_tile_set_21
+  - first:
+      213: -6292885923713003779
+    second: jungle_tile_set_22
+  - first:
+      213: -3642308939784339291
+    second: jungle_tile_set_23
+  - first:
+      213: 4949061296739155659
+    second: jungle_tile_set_24
+  - first:
+      213: -4156699413830027388
+    second: jungle_tile_set_25
+  - first:
+      213: 5185805315111250002
+    second: jungle_tile_set_26
+  - first:
+      213: -4217102780497175612
+    second: jungle_tile_set_27
+  - first:
+      213: -6945921212315199958
+    second: jungle_tile_set_28
+  - first:
+      213: 463756700572025227
+    second: jungle_tile_set_29
+  - first:
+      213: -408342855572614723
+    second: jungle_tile_set_30
+  - first:
+      213: -2034147682233178466
+    second: jungle_tile_set_31
+  - first:
+      213: -8530855617680974089
+    second: jungle_tile_set_32
+  - first:
+      213: -8211936605861520176
+    second: jungle_tile_set_33
+  - first:
+      213: -2132433330233890181
+    second: jungle_tile_set_34
+  - first:
+      213: -6861939740961319960
+    second: jungle_tile_set_35
+  - first:
+      213: 2769727372753388880
+    second: jungle_tile_set_36
+  - first:
+      213: -1962288710388242608
+    second: jungle_tile_set_37
+  - first:
+      213: 2243009890712327508
+    second: jungle_tile_set_38
+  - first:
+      213: 3047923980873003385
+    second: jungle_tile_set_39
+  - first:
+      213: -8197941086495437623
+    second: jungle_tile_set_40
+  - first:
+      213: 6611344297386349398
+    second: jungle_tile_set_41
+  - first:
+      213: 4865776234138000632
+    second: jungle_tile_set_42
+  - first:
+      213: 3109929639161493411
+    second: jungle_tile_set_43
+  - first:
+      213: 4053259819411358831
+    second: jungle_tile_set_44
+  - first:
+      213: -2716730307821784523
+    second: jungle_tile_set_45
+  - first:
+      213: -7260119009140761476
+    second: jungle_tile_set_46
+  - first:
+      213: 7116417954767040847
+    second: jungle_tile_set_47
+  - first:
+      213: -7747460108415761725
+    second: jungle_tile_set_48
+  - first:
+      213: 4920806702871910920
+    second: jungle_tile_set_49
+  - first:
+      213: -6467437035752065206
+    second: jungle_tile_set_50
+  - first:
+      213: -2452483376662259066
+    second: jungle_tile_set_51
+  - first:
+      213: -8535458482848792811
+    second: jungle_tile_set_52
+  - first:
+      213: 5413927106008558232
+    second: jungle_tile_set_53
+  - first:
+      213: 16207292855158854
+    second: jungle_tile_set_54
+  - first:
+      213: 4409389228135412022
+    second: jungle_tile_set_55
+  - first:
+      213: -7681723015085078321
+    second: jungle_tile_set_56
+  - first:
+      213: 472392599469551857
+    second: jungle_tile_set_57
+  - first:
+      213: 6250780581384581138
+    second: jungle_tile_set_58
+  - first:
+      213: 2612657856383240866
+    second: jungle_tile_set_59
+  - first:
+      213: 699384129445725767
+    second: jungle_tile_set_60
+  - first:
+      213: 2837452859699373505
+    second: jungle_tile_set_61
+  - first:
+      213: -2465323065844785756
+    second: jungle_tile_set_62
+  - first:
+      213: -53138640662280164
+    second: jungle_tile_set_63
+  - first:
+      213: -5165482025500525153
+    second: jungle_tile_set_64
+  - first:
+      213: -5374970182529256379
+    second: jungle_tile_set_65
+  - first:
+      213: -6420833433370507168
+    second: jungle_tile_set_66
+  - first:
+      213: -6009929684891582366
+    second: jungle_tile_set_67
+  - first:
+      213: -2566026374756823257
+    second: jungle_tile_set_68
+  - first:
+      213: -5678709434385005386
+    second: jungle_tile_set_69
+  - first:
+      213: -5269361439317524843
+    second: jungle_tile_set_70
+  - first:
+      213: -5203263809140415034
+    second: jungle_tile_set_71
+  - first:
+      213: -6714774625420562517
+    second: jungle_tile_set_72
+  - first:
+      213: 6396496696313164907
+    second: jungle_tile_set_73
+  - first:
+      213: 3647177310166328033
+    second: jungle_tile_set_74
+  - first:
+      213: -6154759110135080052
+    second: jungle_tile_set_75
+  - first:
+      213: -4301025530887233980
+    second: jungle_tile_set_76
+  - first:
+      213: 8829686654555561604
+    second: jungle_tile_set_78
+  - first:
+      213: -5675928783962432482
+    second: jungle_tile_set_79
+  - first:
+      213: 9002706581042908720
+    second: jungle_tile_set_80
+  - first:
+      213: 4095128862975283264
+    second: jungle_tile_set_81
+  - first:
+      213: 342396359784065111
+    second: jungle_tile_set_82
+  - first:
+      213: 691492525342261291
+    second: jungle_tile_set_88
+  - first:
+      213: 7481321251693989593
+    second: jungle_tile_set_89
+  - first:
+      213: 39394055209536779
+    second: jungle_tile_set_90
+  - first:
+      213: -4737323370518039114
+    second: jungle_tile_set_91
+  - first:
+      213: 7606030758907084922
+    second: jungle_tile_set_92
+  - first:
+      213: -2897728952105023567
+    second: jungle_tile_set_77
+  - first:
+      213: 2090717451185117463
+    second: jungle_tile_set_83
+  - first:
+      213: 422722728749586972
+    second: jungle_tile_set_84
+  - first:
+      213: -8977251034193737738
+    second: jungle_tile_set_85
+  - first:
+      213: 209513714313297678
+    second: jungle_tile_set_86
+  - first:
+      213: 8872914152410795900
+    second: jungle_tile_set_87
+  - first:
+      213: -5455510210296722664
+    second: jungle_tile_set_93
+  - first:
+      213: 1027805534750537028
+    second: jungle_tile_set_94
+  - first:
+      213: -543751033889955176
+    second: jungle_tile_set_95
+  - first:
+      213: -1256304455073633737
+    second: jungle_tile_set_96
+  - first:
+      213: 7206252027992400720
+    second: jungle_tile_set_97
+  - first:
+      213: 8462255134121906922
+    second: jungle_tile_set_98
+  - first:
+      213: 3875294821616327723
+    second: jungle_tile_set_99
+  - first:
+      213: 8048337827784150476
+    second: jungle_tile_set_100
+  - first:
+      213: -193774072249260585
+    second: jungle_tile_set_101
+  - first:
+      213: -6322846709846833832
+    second: jungle_tile_set_102
+  - first:
+      213: -7434519710339984021
+    second: jungle_tile_set_103
+  - first:
+      213: -7560766874995887525
+    second: jungle_tile_set_104
+  - first:
+      213: 1037511619320137286
+    second: jungle_tile_set_105
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jungle_tile_set_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 988
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020e9a228b09e86e0800000000000000
+      internalID: -1833368877763272672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 988
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39625ac7fb76d16d0800000000000000
+      internalID: -3018142103140751725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_9
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 988
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89d8fd00896a7720800000000000000
+      internalID: 2844702113349032330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 924
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a2c9bda9b121b50800000000000000
+      internalID: 6562337958955592311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 924
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb7cb292f03fcd90800000000000000
+      internalID: -7075382671173715019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 924
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ec2aae3dfa72520800000000000000
+      internalID: 2677301828204547729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_20
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 924
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553382aca9a0c3b40800000000000000
+      internalID: 5421219711380108117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_24
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 924
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce75c337099ea440800000000000000
+      internalID: 4949061296739155659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258e981657ea7f740800000000000000
+      internalID: 5185805315111250002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b818dc713489f6600800000000000000
+      internalID: 463756700572025227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057ac8680dc84c4e0800000000000000
+      internalID: -1962288710388242608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45598939c95c02f10800000000000000
+      internalID: 2243009890712327508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971745646b66c4a20800000000000000
+      internalID: 3047923980873003385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_40
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc0cd134001b3e80800000000000000
+      internalID: -8197941086495437623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_43
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7fdaa9780b82b20800000000000000
+      internalID: 3109929639161493411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_47
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 668
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41f91bec6892c260800000000000000
+      internalID: 7116417954767040847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_57
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 668
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0f7edf0964e8600800000000000000
+      internalID: 472392599469551857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_58
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 604
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210765a12db3fb650800000000000000
+      internalID: 6250780581384581138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_62
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 604
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad9eb3cbb969cdd0800000000000000
+      internalID: -2465323065844785756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_89
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 476
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de0dc96a0ef2d760800000000000000
+      internalID: 7481321251693989593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 924
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d09bcfcc36dc00800000000000000
+      internalID: 924993636642379234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb57234d57d975c0800000000000000
+      internalID: -4217102780497175612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1960b1656455af0800000000000000
+      internalID: -408342855572614723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_32
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fedafd93005c9980800000000000000
+      internalID: -8530855617680974089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_42
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc555874b5b68340800000000000000
+      internalID: 4865776234138000632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_48
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 668
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c28e56441e7b7490800000000000000
+      internalID: -7747460108415761725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_49
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 668
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a9a0def973a4440800000000000000
+      internalID: 4920806702871910920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_50
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 668
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47facc284c0f36a0800000000000000
+      internalID: -6467437035752065206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_51
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 668
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ade7cdc5707fdd0800000000000000
+      internalID: -2452483376662259066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_64
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 604
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d306837758058b0800000000000000
+      internalID: -5165482025500525153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_66
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 604
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068cff9e20e94e6a0800000000000000
+      internalID: -6420833433370507168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_83
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 476
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719599bd178b30d10800000000000000
+      internalID: 2090717451185117463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_84
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 476
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a5a950510ddd500800000000000000
+      internalID: 422722728749586972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_85
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 476
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7cf577fb56a6380800000000000000
+      internalID: -8977251034193737738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_86
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 476
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f7735fc9758e200800000000000000
+      internalID: 209513714313297678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_98
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 348
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2df04a538ff6570800000000000000
+      internalID: 8462255134121906922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_99
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 348
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c1a5aab10d7c530800000000000000
+      internalID: 3875294821616327723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_100
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 348
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdc969cc9071bf60800000000000000
+      internalID: 8048337827784150476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_101
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 348
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5e6e802839f4df0800000000000000
+      internalID: -193774072249260585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_102
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 348
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8550552da6cb048a0800000000000000
+      internalID: -6322846709846833832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 988
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c040ca56bd244630800000000000000
+      internalID: 3910300637694279878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 988
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5204e11a8fdfe6450800000000000000
+      internalID: 6084079390920949797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 988
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cc9bfe83bfe9a30800000000000000
+      internalID: 4224089722478775423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 988
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b00984033656b80800000000000000
+      internalID: -8402200470762812537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 924
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319b2c6fd09a8b440800000000000000
+      internalID: 4951893667733485843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_19
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 924
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7cf876c290d1df0800000000000000
+      internalID: -207999921468487757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_22
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 924
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfec701f79d2ba8a0800000000000000
+      internalID: -6292885923713003779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a261a1e55712b9f90800000000000000
+      internalID: -6945921212315199958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_33
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcd8996a27590e80800000000000000
+      internalID: -8211936605861520176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_35
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e35dd5692e75c0a0800000000000000
+      internalID: -6861939740961319960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653948d2c9630cb50800000000000000
+      internalID: 6611344297386349398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_44
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64c066a452104830800000000000000
+      internalID: 4053259819411358831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_59
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 604
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa4b595a76024420800000000000000
+      internalID: 2612657856383240866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 604
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74688250926b4b900800000000000000
+      internalID: 699384129445725767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 604
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c52c49a758a06720800000000000000
+      internalID: 2837452859699373505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_67
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 604
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26046f62bc0789ca0800000000000000
+      internalID: -6009929684891582366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_69
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 604
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b482d44bdb2131b0800000000000000
+      internalID: -5678709434385005386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_80
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 540
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e4224efe900fc70800000000000000
+      internalID: 9002706581042908720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_82
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 476
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758e055dcaf60c400800000000000000
+      internalID: 342396359784065111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_88
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 476
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b200dd1c9cca89900800000000000000
+      internalID: 691492525342261291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungle_tile_set_93
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 412
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b4fb64e522a44b0800000000000000
+      internalID: -5455510210296722664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jungle_tile_set_0: -1833368877763272672
+      jungle_tile_set_1: 3910300637694279878
+      jungle_tile_set_100: 8048337827784150476
+      jungle_tile_set_101: -193774072249260585
+      jungle_tile_set_102: -6322846709846833832
+      jungle_tile_set_11: -8402200470762812537
+      jungle_tile_set_13: 4951893667733485843
+      jungle_tile_set_14: 6562337958955592311
+      jungle_tile_set_15: -7075382671173715019
+      jungle_tile_set_16: 924993636642379234
+      jungle_tile_set_17: 2677301828204547729
+      jungle_tile_set_19: -207999921468487757
+      jungle_tile_set_2: 6084079390920949797
+      jungle_tile_set_20: 5421219711380108117
+      jungle_tile_set_22: -6292885923713003779
+      jungle_tile_set_24: 4949061296739155659
+      jungle_tile_set_26: 5185805315111250002
+      jungle_tile_set_27: -4217102780497175612
+      jungle_tile_set_28: -6945921212315199958
+      jungle_tile_set_29: 463756700572025227
+      jungle_tile_set_3: 4224089722478775423
+      jungle_tile_set_30: -408342855572614723
+      jungle_tile_set_32: -8530855617680974089
+      jungle_tile_set_33: -8211936605861520176
+      jungle_tile_set_35: -6861939740961319960
+      jungle_tile_set_37: -1962288710388242608
+      jungle_tile_set_38: 2243009890712327508
+      jungle_tile_set_39: 3047923980873003385
+      jungle_tile_set_4: -3018142103140751725
+      jungle_tile_set_40: -8197941086495437623
+      jungle_tile_set_41: 6611344297386349398
+      jungle_tile_set_42: 4865776234138000632
+      jungle_tile_set_43: 3109929639161493411
+      jungle_tile_set_44: 4053259819411358831
+      jungle_tile_set_47: 7116417954767040847
+      jungle_tile_set_48: -7747460108415761725
+      jungle_tile_set_49: 4920806702871910920
+      jungle_tile_set_50: -6467437035752065206
+      jungle_tile_set_51: -2452483376662259066
+      jungle_tile_set_57: 472392599469551857
+      jungle_tile_set_58: 6250780581384581138
+      jungle_tile_set_59: 2612657856383240866
+      jungle_tile_set_60: 699384129445725767
+      jungle_tile_set_61: 2837452859699373505
+      jungle_tile_set_62: -2465323065844785756
+      jungle_tile_set_64: -5165482025500525153
+      jungle_tile_set_66: -6420833433370507168
+      jungle_tile_set_67: -6009929684891582366
+      jungle_tile_set_69: -5678709434385005386
+      jungle_tile_set_80: 9002706581042908720
+      jungle_tile_set_82: 342396359784065111
+      jungle_tile_set_83: 2090717451185117463
+      jungle_tile_set_84: 422722728749586972
+      jungle_tile_set_85: -8977251034193737738
+      jungle_tile_set_86: 209513714313297678
+      jungle_tile_set_88: 691492525342261291
+      jungle_tile_set_89: 7481321251693989593
+      jungle_tile_set_9: 2844702113349032330
+      jungle_tile_set_93: -5455510210296722664
+      jungle_tile_set_98: 8462255134121906922
+      jungle_tile_set_99: 3875294821616327723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
