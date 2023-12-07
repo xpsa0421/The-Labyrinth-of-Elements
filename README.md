@@ -17,6 +17,8 @@ A single-player 2D platformer game developed as a team of 5.
 <br />
 
 ### Preview
+https://github.com/xpsa0421/The-Labyrinth-of-Elements/assets/71711432/29a57f90-3219-424e-9ee7-c0002f554ce0
+
 [Game Introduction Slides](https://docs.google.com/presentation/d/1PsscrmdVSY_jwlGu7c4FQiP9YdpZfoWn/edit?usp=sharing&ouid=115281504371615006586&rtpof=true&sd=true) | 
 [Playable Demo](https://play.unity.com/mg/other/the-labyrinth-of-elements)
 
